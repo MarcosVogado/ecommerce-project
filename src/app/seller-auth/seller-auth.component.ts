@@ -19,5 +19,5 @@ export class SellerAuthComponent implements OnInit {
       console.warn(result)
     })
   }
-
+//Só fiz esse comentário pra deixar o verdinho lá no github, essa semana tô mt ocupado com outros tipos de projetos no trabalho
 }
